@@ -24,6 +24,8 @@ var compliments = []string{
 	"You are really something special.",
 	"You are so thoughtful.",
 	"You are kind.",
+	"You are more helpful than you realize.",
+	"You are a gem. 💎",
 }
 
 var greetings = []string{
