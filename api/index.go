@@ -10,6 +10,7 @@ import (
 
 var compliments = []string{
 	"You are great. 🌟",
+	"You are loved. ❤️",
 	"You look really nice today.",
 	"Thank you for being who you are. 🤗",
 	"You are appreciated.",
