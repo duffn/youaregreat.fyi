@@ -1,13 +1,12 @@
 {
   "name": "youaregreat.fyi",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "dependencies": {
-    "gatsby": "^2.24.23",
-    "gatsby-image": "^2.4.14",
-    "gatsby-plugin-manifest": "^2.4.21",
-    "gatsby-plugin-react-helmet": "^3.3.10",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "gatsby": "^5.3.3",
+    "gatsby-image": "^3.11.0",
+    "gatsby-plugin-manifest": "^5.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-helmet": "^6.1.0"
   },
   "scripts": {
@@ -19,7 +18,7 @@
     "url": "https://github.com/duffn/youaregreat.fyi/issues"
   },
   "author": {
-    "name": "Nicholas Duffy",
+    "name": "duffn",
     "url": "https://github.com/duffn"
   }
 }

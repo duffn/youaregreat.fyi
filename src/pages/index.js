@@ -1,13 +1,9 @@
 import React from "react";
-import { Helmet } from "react-helmet";
 import "../styles/index.css";
 
 function Index() {
   return (
     <main>
-      <Helmet>
-        <title>You Are Great</title>
-      </Helmet>
       <h1>You Are Great.</h1>
       <p className="tag-line">
         Random compliments. A happy thing for sad times.
@@ -25,10 +21,14 @@ function Index() {
         </pre>
       </p>
       <p className="footer">There's also a special header just for you.</p>
-      <a href="https://nicholasduffy.com">Me.</a>
+      <a href="https://duffn.github.io">Me.</a>
       <a href="https://github.com/duffn/youaregreat.fyi">GitHub.</a>
     </main>
   );
 }
 
 export default Index;
+
+export function Head() {
+  return <title>You Are Great</title>;
+}

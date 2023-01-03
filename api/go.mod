@@ -1,3 +1,3 @@
 module github.com/duffn/youaregreat.fyi
 
-go 1.12
+go 1.16
