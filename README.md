@@ -1,4 +1,4 @@
-![star](/src/images/star.png)
+![star](/public/images/star.png)
 
 # You Are Great.
 
